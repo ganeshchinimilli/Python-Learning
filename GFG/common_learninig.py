@@ -26,3 +26,37 @@
     # print("{0} and Portal".format("Geeks"))
 
 
+# Data types
+#  string -- we can access as character from the list in s[0],s+s[0]
+    # s[::-]reverses a string
+    # you cannot change a string character at a particular line thorug index
+    # methods are
+    # --replace(new_relplace_word,string_word).
+    # --len(word) -- will return the length of the string.
+    # --upper() and lower()--you know.
+    # -string()--will remove the empty spaces across the word.
+    # --for concatenating use +.for repeating using *
+    # -in printing the output use formatting
+    # separator.join(list of strings)--to join the array of words into a astring.
+
+# Lists -- [] --list(can be a tuple,string or list)--
+    # -can contain duplicate items.these are mutable items.--ordered of how they are added.
+# --operations
+    # append()--adds element at the end of the list
+    # extend--multiple elements adding at the end of the list
+    # iterable.insert(index,item)---adds elements at specific positon.
+    # iteratble.remove(item to remove) -- removes the first occurance of element
+    # iteratble.pop(index)--removes at specific index or last element if no index is spcified--will returned the pop val
+    # del statement--deletes an entire specified index -- a[0]
+    # looping through list --for item in list:
+    #to read the input -- list(map(int,input('enter.number').split('')))--
+    # to find the length of the list -- len()
+    # list comprehensions are [print(1) for i in a]--not good as it createa additional space
+
+    # list sorting techniques are
+    #   sorted(a, key=len)=sorted() function creates a new list without modifying the original.
+    # a.sort(key=len)--changes the original lsit
+    #   sorted(a, key=len, reverse=True)
+
+
+
