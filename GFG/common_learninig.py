@@ -59,4 +59,9 @@
     #   sorted(a, key=len, reverse=True)
 
 
+# Tuple-() -tuple(list,string,tuple)
+    # ---mixed data types.ordered list--immutable collection of list
+    # we generally use ‘tuples’ for heterogeneous (different) data types and ‘lists’ for homogeneous (similar) data types.
+    # 
+
 
