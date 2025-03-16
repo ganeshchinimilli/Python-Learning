@@ -59,9 +59,15 @@
     #   sorted(a, key=len, reverse=True)
 
 
-# Tuple-() -tuple(list,string,tuple)
+# Tuple-() -tuple(list,string,tuple)--()
     # ---mixed data types.ordered list--immutable collection of list
     # we generally use ‘tuples’ for heterogeneous (different) data types and ‘lists’ for homogeneous (similar) data types.
-    # 
+    # We can access the tuple data by using indexing or slicing (::)
+    # concatenation of tuples will be done by "+".
+
+# Sets-{} -- {},set()
+    # in Set the order of elements is not quaranteed by the same order in which they added.
+    # for adding add(element) --for removing--remove(element)
+    # we cannot use the set to index 
 
 
