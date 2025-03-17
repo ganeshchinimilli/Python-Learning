@@ -98,4 +98,15 @@
 
     # * is used to unpack a list,* is used in the function input data.
     # ** used to pass key value to the input funciton arguments
+
+# Conditional Statements
+    # if ,if else,if elif else,match case statement
+# loops in python
+    # while ,while else,for item in sequence,range(start,stop,step):for else,
+    # continue staements makes back to first loop,break will come out of the loop,pass used to write the empty loop statements
+
+# functions
+    # function is a block of statements that returns a specific task.
+    # def is keyword with function name follwing with the (parametets):
+    # lambda function is without a function name  --lambda arguments,expressions
     
