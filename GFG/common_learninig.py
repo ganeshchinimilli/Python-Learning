@@ -66,9 +66,36 @@
     # concatenation of tuples will be done by "+".
 
 # Sets-{} -- {},set()
+    # sets are unordered,unindexed and mutability
     # in Set the order of elements is not guaranted by the same order in which they added.
     # for adding add(element) --for removing--remove(element)
-    # we cannot use the set to index 
-    # 
+    # we cannot use the set to index the element to get it.
+    # to access the elements in set use in method in for loop.
+    # for removing the element use remove(element),set.pop(),set.clear()-clears the set
+    # frozenset is same but it was immutable--cannot add ,remove,change items.
+    # unique elements,
 
 
+#dictionaries in python. =={key:value};-dict()
+    # Data Structure used to store the data in teh key:value pairs
+    # dictionaries internally used the heshing--search,insert and delete can be performed in constant time.
+    # del,d.popup,d.clear,d.popitem()
+    # we can iterate over keys and values in for key in ,for value in d.values(),for key,value in d.items() 
+    # we can add multiple key values at a time using dict.update(new_data)--where new_data is the group of nested tuples
+    # to get the lenght of dictonary--len()
+
+
+# Operators
+
+    # Arthimetic Operators -- --+,-,,*,/,//,%,**(exponential)
+    # Comparision operators -- >,<,==,!=,>=,<=
+    # Logical Operators -- and,not,or
+    # Bitwise Operators -- &,|,~,^,>>,<<
+    # Assignment Operators -- =,+=,-=,*=,<<=
+    # identity operators -- is,isnot
+    # membership operators -- in ,not in
+    #  ternery operators -- [on_true] if expression else [on_false]
+
+    # * is used to unpack a list,* is used in the function input data.
+    # ** used to pass key value to the input funciton arguments
+    
