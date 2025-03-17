@@ -66,8 +66,9 @@
     # concatenation of tuples will be done by "+".
 
 # Sets-{} -- {},set()
-    # in Set the order of elements is not quaranteed by the same order in which they added.
+    # in Set the order of elements is not guaranted by the same order in which they added.
     # for adding add(element) --for removing--remove(element)
     # we cannot use the set to index 
+    # 
 
 
