@@ -110,3 +110,40 @@
     # def is keyword with function name follwing with the (parametets):
     # lambda function is without a function name  --lambda arguments,expressions
     
+
+# OOPS concepts
+    # Class,Objects,Polymorphism,Encapsulation,Inheritance,Data Abstraction
+    # Class
+    # Class is a collection of objects
+    # A class defines a set of attributes,methods that the created objects(instances) can have.
+            #     def Dog:
+            #         species = 'Canine' #class attribute
+            #             def __init__(self,name,age):
+            #                     self.name = 'gun' #class instance attribute
+            #                     self.age = '25' 
+            # species is a class attribute shared by the all the instances of the class.
+
+    # Objects 
+        # an Object is an instance of the class ,it specifies implementation of the class and holds its own data.
+        # it consists of state,Behaviour,Identity
+            # dog = Dog('buddy',22)
+            # print(dog.name);
+            # print(dog.age)
+    # Class variables and Instance Variables
+        # Class variables are declared globally in the class ,outside of the methods and will be same all across the instances of the class
+        # Instance Variabels are delcared inside a __ini__ or methods.only to that particular instance only.
+
+    # Inheritance
+        # it allows a child class to acquire properties and methods of another class(parent)
+        # Single,Multiple,Multilevel,Hierarchical,Hybrid Inheritance types are present.
+    # Polymorphism
+        # polymorphims allows methods to have same name but behave differently based on the objects context
+        # Compile time polymorphism,Run time Polymorphism
+    # Encapsulation
+        # building of data (attributes ) and methods(functions) within a class,restricting access to some components to control interactions. 
+        # types are public,private and protected
+        # noraml attribute -- publice ,_ -- protected , __ private
+    # Abstraction
+    # internal implementation details while exposing only necessary functionlity.
+    # partitial abstraction(containts both abstact and contrete methods) ,full abstaction(only abstreact methdos( like interfaces))
+
