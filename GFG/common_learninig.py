@@ -146,4 +146,12 @@
     # Abstraction
     # internal implementation details while exposing only necessary functionlity.
     # partitial abstraction(containts both abstact and contrete methods) ,full abstaction(only abstreact methdos( like interfaces))
+    
 
+
+# python Modules
+    # import module_name
+    # from module_name import particular functions
+    # from module import *
+    # import math as mt
+    # built in modules are math,datetime
